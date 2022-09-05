@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.0
+Created-By: 1.6.0_20-b20 (Sun Microsystems Inc.)
+Export-Package: junit.extensions;version="3.8.2";uses:="junit.framewor
+ k",junit.framework;version="3.8.2";uses:="org.junit.runner,org.junit.
+ runner.manipulation,org.junit.runner.notification",junit.runner;versi
+ on="3.8.2";uses:="junit.framework",junit.textui;version="3.8.2";uses:
+ ="junit.framework,junit.runner",org.hamcrest;version="4.7.0",org.hamc
+ rest.core;version="4.7.0";uses:="org.hamcrest",org.hamcrest.internal;
+ version="4.7.0";uses:="org.hamcrest",org.junit;version="4.7.0";uses:=
+ "org.hamcrest,org.junit.internal",org.junit.experimental;version="4.7
+ .0";uses:="org.junit.runner,org.junit.runners.model",org.junit.experi
+ mental.max;version="4.7.0";uses:="org.junit.runner,org.junit.runner.n
+ otification,org.junit.runners,org.junit.runners.model",org.junit.expe
+ rimental.results;version="4.7.0";uses:="org.hamcrest,org.junit.intern
+ al.matchers,org.junit.runner",org.junit.experimental.runners;version=
+ "4.7.0";uses:="org.junit.runners,org.junit.runners.model",org.junit.e
+ xperimental.theories;version="4.7.0";uses:="org.junit.experimental.th
+ eories.internal,org.junit.internal,org.junit.runners,org.junit.runner
+ s.model",org.junit.experimental.theories.internal;version="4.7.0";use
+ s:="org.junit.experimental.theories,org.junit.runners.model",org.juni
+ t.experimental.theories.suppliers;version="4.7.0";uses:="org.junit.ex
+ perimental.theories",org.junit.internal;version="4.7.0";uses:="org.ha
+ mcrest,org.junit.runner,org.junit.runner.notification",org.junit.inte
+ rnal.builders;version="4.7.0";uses:="org.junit.runner,org.junit.runne
+ r.notification,org.junit.runners.model",org.junit.internal.matchers;v
+ ersion="4.7.0";uses:="org.hamcrest",org.junit.internal.requests;versi
+ on="4.7.0";uses:="org.junit.runner,org.junit.runner.manipulation",org
+ .junit.internal.runners;version="4.7.0";uses:="junit.framework,org.ju
+ nit.runner,org.junit.runner.manipulation,org.junit.runner.notificatio
+ n",org.junit.internal.runners.model;version="4.7.0";uses:="org.junit.
+ internal,org.junit.runner,org.junit.runner.notification",org.junit.in
+ ternal.runners.statements;version="4.7.0";uses:="org.junit.runners.mo
+ del",org.junit.matchers;version="4.7.0";uses:="org.hamcrest,org.junit
+ .internal.matchers",org.junit.rules;version="4.7.0";uses:="org.hamcre
+ st,org.junit.internal.matchers,org.junit.runners.model",org.junit.run
+ ner;version="4.7.0";uses:="junit.framework,org.junit.internal,org.jun
+ it.runner.manipulation,org.junit.runner.notification,org.junit.runner
+ s.model",org.junit.runner.manipulation;version="4.7.0";uses:="org.jun
+ it.runner",org.junit.runner.notification;version="4.7.0";uses:="org.j
+ unit.runner",org.junit.runners;version="4.7.0";uses:="org.junit.inter
+ nal.runners,org.junit.internal.runners.model,org.junit.runner,org.jun
+ it.runner.manipulation,org.junit.runner.notification,org.junit.runner
+ s.model",org.junit.runners.model;version="4.7.0";uses:="org.junit.int
+ ernal.runners.model,org.junit.runner"
+Bundle-Vendor: JUnit
+Bundle-Version: 4.7.0
+Bundle-Name: JUnit Testing Framework
+Bundle-ClassPath: junit4.jar
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.junit
+
